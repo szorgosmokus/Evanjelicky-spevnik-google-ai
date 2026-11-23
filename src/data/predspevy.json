@@ -1,0 +1,276 @@
+[
+  {
+    "id": 1,
+    "title": "Rosu dajte, nebesá, zhora",
+    "category": "Advent",
+    "stanzaCount": 1,
+    "book": "predspevy",
+    "stanzas": [
+      {
+        "lines": [
+          "Liturg: Rosu dajte, nebesá, zhora",
+          "Zbor: a oblaky nech lejú spravodlivosť.",
+          "Liturg: Nebesá rozprávajú o sláve Božej",
+          "a dielo jeho rúk zvestuje obloha.",
+          "Zbor: Rosu dajte, nebesá, zhora",
+          "a oblaky nech lejú spravodlivosť."
+        ]
+      }
+    ],
+    "searchNorm": "1 rosu dajte, nebesa, zhora advent liturg: rosu dajte, nebesa, zhora zbor: a oblaky nech leju spravodlivost. liturg: nebesa rozpravaju o slave bozej a dielo jeho ruk zvestuje obloha. zbor: rosu dajte, nebesa, zhora a oblaky nech leju spravodlivost."
+  },
+  {
+    "id": 2,
+    "title": "Slovo sa stalo telom",
+    "category": "Vianoce",
+    "stanzaCount": 1,
+    "book": "predspevy",
+    "stanzas": [
+      {
+        "lines": [
+          "Liturg: Slovo sa stalo telom, haleluja,",
+          "Zbor: a prebývalo medzi nami, haleluja!",
+          "Liturg: Spievajte Hospodinu novú pieseň,",
+          "lebo vykonal divné veci.",
+          "Zbor: Slovo sa stalo telom, haleluja,",
+          "a prebývalo medzi nami, haleluja!"
+        ]
+      }
+    ],
+    "searchNorm": "2 slovo sa stalo telom vianoce liturg: slovo sa stalo telom, haleluja, zbor: a prebyvalo medzi nami, haleluja! liturg: spievajte hospodinu novu piesen, lebo vykonal divne veci. zbor: slovo sa stalo telom, haleluja, a prebyvalo medzi nami, haleluja!"
+  },
+  {
+    "id": 3,
+    "title": "Neopúšťaj ma, Hospodine",
+    "category": "Pôst",
+    "stanzaCount": 1,
+    "book": "predspevy",
+    "stanzas": [
+      {
+        "lines": [
+          "Liturg: Neopúšťaj ma, Hospodine,",
+          "Zbor: Bože môj, nevzďaľuj sa odomňa.",
+          "Liturg: Obráť sa ku mne a zmiluj sa nadomnou.",
+          "Zbor: Neopúšťaj ma, Hospodine,",
+          "Bože môj, nevzďaľuj sa odomňa."
+        ]
+      }
+    ],
+    "searchNorm": "3 neopustaj ma, hospodine post liturg: neopustaj ma, hospodine, zbor: boze moj, nevzdaluj sa odomna. liturg: obrat sa ku mne a zmiluj sa nadomnou. zbor: neopustaj ma, hospodine, boze moj, nevzdaluj sa odomna."
+  },
+  {
+    "id": 4,
+    "title": "Kristus Pán vstal z mŕtvych",
+    "category": "Veľká noc",
+    "stanzaCount": 1,
+    "book": "predspevy",
+    "stanzas": [
+      {
+        "lines": [
+          "Liturg: Kristus Pán vstal z mŕtvych, haleluja,",
+          "Zbor: ktorý trpel za nás, haleluja!",
+          "Liturg: Chválte Hospodina všetky národy,",
+          "a velebte Ho všetci ľudia!",
+          "Zbor: Kristus Pán vstal z mŕtvych, haleluja,",
+          "ktorý trpel za nás, haleluja!"
+        ]
+      }
+    ],
+    "searchNorm": "4 kristus pan vstal z mrtvych velka noc liturg: kristus pan vstal z mrtvych, haleluja, zbor: ktory trpel za nas, haleluja! liturg: chvalte hospodina vsetky narody, a velebte ho vsetci ludia! zbor: kristus pan vstal z mrtvych, haleluja, ktory trpel za nas, haleluja!"
+  },
+  {
+    "id": 5,
+    "title": "Ó Ježiši",
+    "category": "Slávnosti",
+    "stanzaCount": 1,
+    "book": "predspevy",
+    "stanzas": [
+      {
+        "lines": [
+          "Liturg: Ó Ježiši,",
+          "Zbor: ",
+          "a) Tvoje vtelenie",
+          "b) Tvoje narodenie",
+          "c) Tvoje umučenie",
+          "d) Tvoje vzkriesenie",
+          "e) Tvoje vstúpenie",
+          "daj, nech nám hriešnym slúži na spasenie.",
+          "Oroduj u Otca za nás, Ducha pravdy zošli na nás,",
+          "aby sme aj v tejto chvíli verne Teba ctili,",
+          "tak žili z Tvojej milosti, napokon prišli",
+          "pred tvár Tvojej velebnosti.",
+          "Haleluja, sláva Bohu!"
+        ]
+      }
+    ],
+    "searchNorm": "5 o jezisi slavnosti liturg: o jezisi, zbor:  a) tvoje vtelenie b) tvoje narodenie c) tvoje umucenie d) tvoje vzkriesenie e) tvoje vstupenie daj, nech nam hriesnym sluzi na spasenie. oroduj u otca za nas, ducha pravdy zosli na nas, aby sme aj v tejto chvili verne teba ctili, tak zili z tvojej milosti, napokon prisli pred tvar tvojej velebnosti. haleluja, slava bohu!"
+  },
+  {
+    "id": 6,
+    "title": "Najsvätejší Bože všemohúci",
+    "category": "Svätodušné",
+    "stanzaCount": 1,
+    "book": "predspevy",
+    "stanzas": [
+      {
+        "lines": [
+          "Liturg: Najsvätejší,",
+          "Zbor: Bože všemohúci,",
+          "pre Syna svojho jednorodeného,",
+          "Jezu Krista láskavého,",
+          "zošli nám Ducha Svätého,",
+          "ktorý by aj naše srdcia sám ohňom zapálil",
+          "a pri rozličnosti jazykov všetky národy",
+          "v jednotu viery zhromaždil.",
+          "Haleluja, sláva Bohu!"
+        ]
+      }
+    ],
+    "searchNorm": "6 najsvatejsi boze vsemohuci svatodusne liturg: najsvatejsi, zbor: boze vsemohuci, pre syna svojho jednorodeneho, jezu krista laskaveho, zosli nam ducha svateho, ktory by aj nase srdcia sam ohnom zapalil a pri rozlicnosti jazykov vsetky narody v jednotu viery zhromazdil. haleluja, slava bohu!"
+  },
+  {
+    "id": 7,
+    "title": "Poďakujme všetci spolu Pánu",
+    "category": "Poďakovanie",
+    "stanzaCount": 1,
+    "book": "predspevy",
+    "stanzas": [
+      {
+        "lines": [
+          "Liturg: Poďakujme",
+          "Zbor: všetci spolu Pánu a Bohu nášmu!",
+          "Kristus sa narodil, nás vyslobodil",
+          "od smrti večnej, z moci diabolskej.",
+          "Preto spolu s anjelmi zvučne spievajme:",
+          "Chvála buď Bohu na výsostiach!"
+        ]
+      }
+    ],
+    "searchNorm": "7 podakujme vsetci spolu panu podakovanie liturg: podakujme zbor: vsetci spolu panu a bohu nasmu! kristus sa narodil, nas vyslobodil od smrti vecnej, z moci diabolskej. preto spolu s anjelmi zvucne spievajme: chvala bud bohu na vysostiach!"
+  },
+  {
+    "id": 8,
+    "title": "Pomoc naša buď v mene Hospodinovom",
+    "category": "Vstupné verše",
+    "stanzaCount": 4,
+    "book": "predspevy",
+    "stanzas": [
+      {
+        "label": "1",
+        "lines": [
+          "L: Pomoc naša buď v mene Hospodinovom!",
+          "Zbor: Ktorý učinil nebesá i zem."
+        ]
+      },
+      {
+        "label": "2",
+        "lines": [
+          "L: Pane náš, Ty nám otvor pery!",
+          "Zbor: Nech naše ústa Tvoju chválu zvestujú!"
+        ]
+      },
+      {
+        "label": "3",
+        "lines": [
+          "L: Pane Bože, príď k nám so svojou pomocou!",
+          "Zbor: Ó Pane, túto pomoc neodkladaj!"
+        ]
+      },
+      {
+        "label": "4",
+        "lines": [
+          "L: Sláva Otcu i Synu i Duchu Svätému!",
+          "Zbor: Ako bola na počiatku i teraz i vždycky",
+          "i na veky vekov. Amen."
+        ]
+      }
+    ],
+    "searchNorm": "8 pomoc nasa bud v mene hospodinovom vstupne verse 1. l: pomoc nasa bud v mene hospodinovom! zbor: ktory ucinil nebesa i zem. 2. l: pane nas, ty nam otvor pery! zbor: nech nase usta tvoju chvalu zvestuju! 3. l: pane boze, prid k nam so svojou pomocou! zbor: o pane, tuto pomoc neodkladaj! 4. l: slava otcu i synu i duchu svatemu! zbor: ako bola na pociatku i teraz i vzdycky i na veky vekov. amen."
+  },
+  {
+    "id": 9,
+    "title": "Rosu dajte nebesá z výšin (Kyrie)",
+    "category": "Advent",
+    "stanzaCount": 1,
+    "book": "predspevy",
+    "stanzas": [
+      {
+        "lines": [
+          "Kňaz: Pomoc naša buď v mene Hospodinovom!",
+          "Zbor: Ktorý učinil nebesá i zem!",
+          "Kňaz: Rosu dajte nebesá z výšin. Kyrie eleison!",
+          "Zbor: A z oblakov nech prší spravodlivosť, Pane zmiluj sa!",
+          "Kňaz: Kiež by si pretrhol nebesá a zostúpil!",
+          "Zbor: Pohliadni a vyslyš nás, Hospodine, Bože náš!",
+          "Kňaz: Sláva Otcu i Synu i Duchu Svätému!",
+          "Zbor: Ako bola na počiatku, i teraz i vždycky i na veky vekov. Amen."
+        ]
+      }
+    ],
+    "searchNorm": "9 rosu dajte nebesa z vysin (kyrie) advent knaz: pomoc nasa bud v mene hospodinovom! zbor: ktory ucinil nebesa i zem! knaz: rosu dajte nebesa z vysin. kyrie eleison! zbor: a z oblakov nech prsi spravodlivost, pane zmiluj sa! knaz: kiez by si pretrhol nebesa a zostupil! zbor: pohliadni a vyslys nas, hospodine, boze nas! knaz: slava otcu i synu i duchu svatemu! zbor: ako bola na pociatku, i teraz i vzdycky i na veky vekov. amen."
+  },
+  {
+    "id": 10,
+    "title": "Otvorteže sa, brány večnosti",
+    "category": "Advent",
+    "stanzaCount": 1,
+    "book": "predspevy",
+    "stanzas": [
+      {
+        "lines": [
+          "Kňaz: Otvorteže sa, brány večnosti. Haleluja!",
+          "Zbor: Aby vošiel Kráľ slávy, Hospodin zástupov!",
+          "Kňaz: Ktože je to ten Kráľ slávy?",
+          "Zbor: Hospodin zástupov, On je Kráľ slávy!",
+          "Kňaz: Pripravte na púšti cestu Pánovi!",
+          "Zbor: Vyrovnajme chodníky Bohu nášmu!",
+          "Kňaz: Požehnaný, ktorý prichádza v mene Pánovom!",
+          "Zbor: Hosana Synovi Dávidovmu. Hosana na výsostiach!"
+        ]
+      }
+    ],
+    "searchNorm": "10 otvorteze sa, brany vecnosti advent knaz: otvorteze sa, brany vecnosti. haleluja! zbor: aby vosiel kral slavy, hospodin zastupov! knaz: ktoze je to ten kral slavy? zbor: hospodin zastupov, on je kral slavy! knaz: pripravte na pusti cestu panovi! zbor: vyrovnajme chodniky bohu nasmu! knaz: pozehnany, ktory prichadza v mene panovom! zbor: hosana synovi davidovmu. hosana na vysostiach!"
+  },
+  {
+    "id": 11,
+    "title": "Ajhľa, vstupujeme do Jeruzalema",
+    "category": "Pôst",
+    "stanzaCount": 1,
+    "book": "predspevy",
+    "stanzas": [
+      {
+        "lines": [
+          "Kňaz: Ajhľa, vstupujeme do Jeruzalema!",
+          "Zbor: A splní sa všetko o Synovi človeka, čo napísali proroci!",
+          "Kňaz: A vydajú Ho pohanom, odsúdia na smrť, zbičujú a zabijú!",
+          "Zbor: Ale na tretí deň vstane z mŕtvych!",
+          "Kňaz: Verná je to reč a hodná, aby ju všetci prijali!",
+          "Zbor: Že Kristus prišiel na svet, aby spasil hriešnikov!",
+          "Kňaz: Sláva Otcu i Synu i Duchu Svätému!",
+          "Zbor: Ako bola na počiatku, i teraz i vždycky i na veky vekov. Amen."
+        ]
+      }
+    ],
+    "searchNorm": "11 ajhla, vstupujeme do jeruzalema post knaz: ajhla, vstupujeme do jeruzalema! zbor: a splni sa vsetko o synovi cloveka, co napisali proroci! knaz: a vydaju ho pohanom, odsudia na smrt, zbicuju a zabiju! zbor: ale na treti den vstane z mrtvych! knaz: verna je to rec a hodna, aby ju vsetci prijali! zbor: ze kristus prisiel na svet, aby spasil hriesnikov! knaz: slava otcu i synu i duchu svatemu! zbor: ako bola na pociatku, i teraz i vzdycky i na veky vekov. amen."
+  },
+  {
+    "id": 12,
+    "title": "Otče nebeský, Stvoriteľu sveta",
+    "category": "Trojjediný Boh",
+    "stanzaCount": 1,
+    "book": "predspevy",
+    "stanzas": [
+      {
+        "lines": [
+          "Kňaz: Otče nebeský, Stvoriteľu sveta, Bože, Kyrie eleison!",
+          "Zbor: Bože, zmiluj sa nad nami!",
+          "Kňaz: Synu, Vykupiteľu sveta, Bože, Kyrie eleison!",
+          "Zbor: Kriste, zmiluj sa nad nami!",
+          "Kňaz: Duchu Svätý, Posvätiteľu sveta, Bože, Kyrie eleison!",
+          "Zbor: Bože, zmiluj sa nad nami!"
+        ]
+      }
+    ],
+    "searchNorm": "12 otce nebesky, stvoritelu sveta trojjediny boh knaz: otce nebesky, stvoritelu sveta, boze, kyrie eleison! zbor: boze, zmiluj sa nad nami! knaz: synu, vykupitelu sveta, boze, kyrie eleison! zbor: kriste, zmiluj sa nad nami! knaz: duchu svaty, posvatitelu sveta, boze, kyrie eleison! zbor: boze, zmiluj sa nad nami!"
+  }
+]

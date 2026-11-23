@@ -1,0 +1,8 @@
+{
+  "name": "Spevník — Church Songbook",
+  "description": "Offline-ready church hymnal songbook with all 700 hymns, instant number jump, full-text search, and personal favorites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
